@@ -3,22 +3,23 @@ Analysis of the socioeconomic factors that impact the student’s grades on the 
 
 # Background
 > Meritocracy means that every individual is able to prosper only with his or her abilities without needing the help of society, the state or the family.<br><br>
-> Does meritocracy really exists?<br>
+> But the question is: Does meritocracy really exists?<br>
 
 According to the demographic census of IBGE from 2010 (Instituto Brasileiro de Geografia e Estatística), the number of adults who have access to universities has increased considerably and has spread to other regions of Brazil, as shown in the graphs below.
 <br>
 
 ![](https://i.imgur.com/SACDTmV.png)
 
-Based on this observation, it is expected that the population in different social classes will have equivalent access to federal universities.
+Based on this observation, it is expected that this distribution will occur equally between the different socioeconomic classes that will have access to federal universities.
 # Objectives
-In this project, we chose to take into consideration the ENEM grades obtained by the [TRI](https://vestibular.brasilescola.uol.com.br/enem/teoria-resposta-ao-item-tri-no-enem.htm) calculation. We intend to analyze the exam success rates based on the family's socioeconomic level, taking as a reference the answers given by the participants in the questionnaire.
-socioeconomic status of 2019's ENEM .
+In this project, we chose to take into consideration the ENEM grades obtained by the [TRI](https://vestibular.brasilescola.uol.com.br/enem/teoria-resposta-ao-item-tri-no-enem.htm) calculation. We intend to analyze the exam success rates based on the family's socioeconomic level, taking as a reference the answers given by the participants on the 
+socioeconomic status questionnaire of 2019's ENEM.
 
+## Goals
 - Development of a predictive model using ___semi supervised learning___;
 - Consider socioeconomic characteristics to predict the main factors that impact the student’s grade score;
-- Predicting a student profile can give good directions where there should be an investment by the government in schools and quality education; (**SDG 4**)
-- Promoting social inclusion to provide better conditions for people to attend higher education, achieve and sustain the income growth of the poorest population, guarantee equal opportunities and reduce inequalities in results. (**SDG 8 and SDG 10**)
+- Predicting a student profile can give good directions where there should be an investment by the government in schools and quality education which is in line with the **4th** of the 17 Sustainable Development Goals proposed by the UN.Learning benefits every human being and should be available to all.; 
+- Promoting social inclusion to provide better conditions for people to attend higher education, achieve and sustain the income growth of the poorest population, guarantee equal opportunities and reduce inequalities in results, endorsing the **8th** and **10th** Sustainable Development Goal.
 
 ![](https://i.imgur.com/Fkzz8AK.png)
 
